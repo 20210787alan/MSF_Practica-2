@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Matlab, Spyder, Multisim'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - {}
+  - given-names: 'Alan Omar '
+    family-names: 'García Toledo '
+    email: alan.garciat201@tectijuana.edu.mx
+    affiliation: 'Tecnológico Nacional De México  '
+  - given-names: 'Jahzeel Abisai  '
+    family-names: Tapia García
+    email: l22210798@tectijuana.edu.mx
+    affiliation: 'Tecnológico Nacional De México '
+repository-code: 'https://github.com/20210787alan/MSF_Practica-2'
+keywords:
+  - Controlador PID
+  - 'Sistema respiratorio '
+  - 'Respiración normal '
+  - Respiración (taquipnea)
+  - Sistema de control (tratamiento)
+license: BSD-2-Clause
+date-released: '2025-03-31'
