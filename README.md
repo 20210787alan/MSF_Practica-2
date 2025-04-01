@@ -1,5 +1,5 @@
 Practica 2: Sistema Respiratorio
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [GARCIA20210787]
+# Modelado de Sistemas Fisiológicos. Práctica 2: Sistema Respiratorio [GARCIA20210787]
 
 ## Autor
 Garcia Toledo Alan Omar 
